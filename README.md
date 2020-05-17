@@ -24,5 +24,5 @@ Having this data in S3, I executed another crawler to crawl through the parquet 
 
 Amazon QuickSight uses Athena as the data source to visualize the data
 
-![AWS QuickSight Dashboard](../media/dashboard.png?raw=true)
+![AWS QuickSight Dashboard](images/dashboard.png)
 
