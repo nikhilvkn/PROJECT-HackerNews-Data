@@ -1,5 +1,12 @@
 ## Gather HackerNews Data
 
+![](https://img.shields.io/badge/Python-3.6-red)
+![](https://img.shields.io/badge/AWS-Lambda-green)
+![](https://img.shields.io/badge/AWS-S3-red)
+![](https://img.shields.io/badge/AWS-Glue-green)
+![](https://img.shields.io/badge/AWS-Athena-red)
+![](https://img.shields.io/badge/AWS-QuickSight-green)
+
 This project uses technologies like:
 ```
 1) Python
