@@ -18,7 +18,7 @@ This project uses technologies like:
 ```
 
 ### Introduction
-Daily I used to read articles from [Hacker News](https://news.ycombinator.com/). You can see that a large amount of articles
+This project is built for a learning purpose - to understand how the technologies works together to give the end result for one of my simple requirements. Daily I used to read articles from [Hacker News](https://news.ycombinator.com/). You can see that a large amount of articles
 are updated in Hacker News, to find the interested one was difficult. I thought of combining these technologies to get the
 data, I needed daily
 
