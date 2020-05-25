@@ -33,3 +33,10 @@ Amazon QuickSight uses Athena as the data source to visualize the data
 
 ![AWS QuickSight Dashboard](images/dashboard.png)
 
+
+
+
+
+```
+Maintainer: Nikhil Narayanan [nikhilvkn@yahoo.com]
+```
